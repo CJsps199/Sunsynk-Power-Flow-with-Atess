@@ -1,5 +1,5 @@
 {
-  "name": "sunsynk-power-flow-card",
+  "name": "sunsynk-power-flow-with-atess",
   "version": "6.9.2",
   "description": "A customizable Home Assistant card to emulate the Sunsynk System flow that's displayed on the Inverter screen.",
   "main": "sunsynk-power-flow-card.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slipx06/sunsynk-power-flow-card.git"
+    "url": "git+https://github.com/CJsps199/Sunsynk-Power-Flow-with-Atess.git"
   },
-  "author": "slipx06 <slipx06@users.noreply.github.com>",
+  "author": "CJsps199 <slipx06@users.noreply.github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/slipx06/sunsynk-power-flow-card/issues"
+    "url": "https://github.com/CJsps199/Sunsynk-Power-Flow-with-Atess/issues"
   },
-  "homepage": "https://github.com/slipx06/sunsynk-power-flow-card#readme",
+  "homepage": "https://github.com/CJsps199/Sunsynk-Power-Flow-with-Atess#readme",
   "dependencies": {
     "@lit-labs/scoped-registry-mixin": "^1.0.3",
     "custom-card-helpers": "^1.9.0",
