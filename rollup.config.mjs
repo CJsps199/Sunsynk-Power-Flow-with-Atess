@@ -55,7 +55,7 @@ export default {
     output: {
         file: 'dist/sunsynk-power-flow-card.js',
         format: 'esm',
-        name: 'SunsynkPowerFlowCard',
+        name: 'SunsynkPowerFlowCardAtess',
         inlineDynamicImports: true,
     },
     watch: {
